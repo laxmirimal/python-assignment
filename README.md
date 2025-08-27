@@ -1,5 +1,7 @@
 📚 Library Management System
 
+Project Done By : Laxmi Prasad Rimal, Pranish Pudasaini, Laxman Magaranti, Parakh Dhoj Karki
+
 A Tkinter + SQLite based Library Management System with user authentication, book management, borrowing system, and admin control.
 
 Admins can:
@@ -107,4 +109,3 @@ Dark mode UI.
 
 © 2025 Laxmi Prasad Rimal. All rights reserved.
 
-Project Done By : Laxmi Prasad Rimal, Pranish Pudasaini, Laxman Magaranti, Parakh Dhoj Karki
