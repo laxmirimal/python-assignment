@@ -106,3 +106,5 @@ Dark mode UI.
 📄 License
 
 © 2025 Laxmi Prasad Rimal. All rights reserved.
+
+Project Done By : Laxmi Prasad Rimal, Pranish Pudasaini, Laxman Magaranti, Parakh Dhoj Karki
