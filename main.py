@@ -8,8 +8,8 @@ from tkinter import ttk, messagebox
 # ---------------------------------
 # Config
 # ---------------------------------
-DB_PATH = "assets/library.db"
-CATALOG_JSON = "assets/bookdetails.json"  # JSON catalog for autofill
+DB_PATH = "python-assignment/assets/library.db"
+CATALOG_JSON = "python-assignment/assets/bookdetails.json"  # JSON catalog for autofill
 
 DEFAULT_LOAN_DAYS = 14
 
